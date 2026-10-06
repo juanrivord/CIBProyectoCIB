@@ -28,6 +28,9 @@
 
         <section id="UD2">
             <h2>2.Servidor web seguro</h2>
+            <div class="caja_practicas">
+                <a href="https://github.com/juanrivord/JRODAWProyectoDAW/blob/main/docs/Guia_Instalacion_JRO_USED.md" class="cajas_imagenes" target="_blank">Estudio tema 2</a>
+            </div>
                 
         </section>
 
